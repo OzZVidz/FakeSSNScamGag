@@ -30,7 +30,7 @@ I hope you enjoy running it!
 
 # HOW TO RUN:
 
-(1.) Download the SSN grabber.py file anywhere onto your computer
+(1.) Download the script.py file anywhere onto your computer
 (2.) Open Chrome, Firefox, or Safari.
 (3.) Navigate to https://py3.codeskulptor.org/
 (4.) Click "load" (Little picture of a folder)
