@@ -13,7 +13,7 @@ Q: What do you mean by different yes/no answers? I tried inputting "potato," but
 A: Python in general takes case very seriously, meaning there can be different responses for different case. (ex. "yes" is not the same as "yEs" or "Yes" and so on.)
 
 Q: How long did this script take to write?
-A: About an hour. This is my first python script I have ever wrote so it took some learning and alot ctrl + c and ctrl + v.
+A: About an hour. This is my first python script I have ever wrote so it took some learning and alot of ctrl + c and ctrl + v.
 
 Q: I'm concerned about other data, like my name, being entered into this script.
 A: I assure you that as long as you run the script in a respectable environment, your information will be kept confidential.
