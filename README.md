@@ -18,7 +18,7 @@ A: About an hour. This is my first python script I have ever wrote so it took so
 Q: I'm concerned about other data, like my name, being entered into this script.
 A: I assure you that as long as you run the script in a respectable environment, your information will be kept confidential.
 
-Q: Are you sure there's no hidden tri-
+Q: Are you sure there's no hidden tricks?
 A: YES. IT'S JUST A GAG.
 
 
