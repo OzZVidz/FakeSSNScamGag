@@ -16,7 +16,7 @@ Q: How long did this script take to write?
 A: About an hour. This is my first python script I have ever wrote so it took some learning and alot of ctrl + c and ctrl + v.
 
 Q: I'm concerned about other data, like my name, being entered into this script.
-A: I assure you that as long as you run the script in a respectable environment, your information will be kept confidential.
+A: I assure you that as long as you run the script in a secure environment, your information will be kept confidential.
 
 Q: Are you sure there's no hidden tricks?
 A: YES. IT'S JUST A GAG.
