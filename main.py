@@ -6,7 +6,8 @@ lname = input("What is your last name?")
 print("Your name is " + fname + " " + lname + ". \n\n")
 
 #This asks the user how they are feeling today, and asks if I can have their SSN.
-feelings = input ("So, how are you doing today?")
+feeling = input ("So, how are you doing today?")
+print = ("Wow! Glad to know you're feeling " + feeling + " today. Now, next question!")
 yesno = input ("This is kind of a longshot, but can you tell me your SSN? (This is a \"yes\" or \"no\" answer)")
 
 #This sets the user's response to yesno, and sets multiple outcome variables.
@@ -74,7 +75,7 @@ elif response == YeS:
     print("Thanks for your Social Security number, which is allegedly " + ssn + ". Have a nice day.")
     
 else:
-    print("Invalid response, are you stupid? (If you're confused why you got this, it's because you didn't answer with a \"Yes\" or a \"No\") \n\n\n (You're gonna have to rerun the script now, but try answering with random caps if you want.. ;)")
+    print("Invalid response, are you stupid?\n\n(If you're confused why you got this, it's because you didn't answer with a \"Yes\" or a \"No\")\n\n(You're gonna have to rerun the script now, but try answering with random caps if you want.. ;)\n~~~~~~~~~~~~~~~~")
     
 #End of script message, regardless of response.
-print("*****\n\nThanks for using my first script ever created!\nIf you enjoyed, make sure to subscribe to \"OzZVidz\" on YouTube, because why not? Goodbye!\n(By the way, no I did not take your Social Security Number. This script is completely harmless.) \nIf you did actually input your real Social Security Number, please, don't do that again. People could create Credit Cards with your name!\n\nCreated October 7, 2020 by Osaym Omar. Last updated October 7, 2020 by Osaym Omar at 10:51 AM.")
+print("*****\n\nThanks for using my first script ever created!\nIf you enjoyed, make sure to subscribe to \"OzZVidz\" on YouTube, because why not? Goodbye!\n(By the way, no I did not take your Social Security Number. This script is completely harmless.) \nIf you did actually input your real Social Security Number, please, don't do that again. People could create Credit Cards with your name!\n\nCreated October 7, 2020 by Osaym Omar. Last updated May 5, 2021 by Osaym Omar at 11:24 AM.")
