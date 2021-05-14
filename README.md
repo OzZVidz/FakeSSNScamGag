@@ -23,9 +23,9 @@ A: YES. IT'S JUST A GAG.
 
 
 # Information:
-This is the Fake SSN Scam Script, created by Osaym Omar. 
-This was originally just an experiment, but I turned it into a gag script.
-I hope you enjoy running it!
+* This is the Fake SSN Scam Script, created by ImOsaym. 
+* This was originally just an experiment, but I turned it into a gag script.
+* I hope you enjoy running it!
 
 
 # HOW TO RUN:
