@@ -3,37 +3,35 @@ Gag Python Script that asks the user for basic information, then suddenly their 
 
 # FAQ:
 
-Q: Does this script actually take my SSN?
-A: No. This is just a silly gag with a handful of programmed responses.
+* Does this script actually take my SSN?
 
-Q: Why is this script so long? Seems kinda sus to me..
-A: The script is long because of the different types of yes/no answers it can receive. I added notes next to each section for people to better see the script.
+  * No. This is just a silly gag with a handful of programmed responses.
 
-Q: What do you mean by different yes/no answers? I tried inputting "potato," but it yelled at me!
-A: Python in general takes case very seriously, meaning there can be different responses for different case. (ex. "yes" is not the same as "yEs" or "Yes" and so on.)
+* Why is this script so long? Seems kinda sus to me..
 
-Q: How long did this script take to write?
-A: About an hour. This is my first python script I have ever wrote so it took some learning and alot of ctrl + c and ctrl + v.
+  * The script is long because of the different types of yes/no answers it can receive. I added notes next to each section for people to better understand the script.
 
-Q: I'm concerned about other data, like my name, being entered into this script.
-A: I assure you that as long as you run the script in a secure environment, your information will be kept confidential.
+* What do you mean by different yes/no answers? I tried inputting "potato," but it yelled at me!
+  * Python in general takes case very seriously, meaning there can be different responses for different case. (ex. "yes" is not the same as "yEs" or "Yes" and so on.)
 
-Q: Are you sure there's no hidden tricks?
-A: YES. IT'S JUST A GAG.
+* How long did this script take to write?
+  * About an hour. This is my first python script I have ever wrote so it took some learning and alot of ctrl + c and ctrl + v.
+
+* I'm concerned about other data, like my name, being entered into this script.
+  * I assure you that as long as you run the script in a secure environment, your information will be safe.
+
+* Are you sure there's no hidden tricks? >:(
+  * **YES. IT'S JUST A GAG.**
 
 
-# Information:
+# Information
 * This is the Fake SSN Scam Script, created by ImOsaym. 
 * This was originally just an experiment, but I turned it into a gag script.
 * I hope you enjoy running it!
 
 
-# HOW TO RUN:
+# How to run
 
-(1.) Download the script.py file anywhere onto your computer
-(2.) Open Chrome, Firefox, or Safari.
-(3.) Navigate to https://py3.codeskulptor.org/
-(4.) Click "load" (Little picture of a folder)
-(5.) Upload the SSN Grabber.py script to your browser
-(6.) Click "run" (Little sideways triangle)
-(7.) Done!
+1. Visit https://replit.com/@ImOsaym/FakeSSNScamGag
+
+2. Hit run. That's it!
